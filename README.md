@@ -8,7 +8,7 @@
 `Version ?.??`
 ## Shortened Script
 ```
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NaikoScript/MM2-Plus/main/Script"))()
+Unavailable script
 ```
 ## Game information
 `Last seen update : ??D/??M/????`
