@@ -3,7 +3,7 @@
 > **This script is still not released to get updates once it gets released please join my [discord server](https://discord.gg/vAWJMYJYcR)**
 
 ## Script thumbnail
-![MM2Plus1](https://github.com/user-attachments/assets/6014106c-1e0b-495d-b1d1-6d4682f3f672)
+![MM2PlusThumbnail](https://github.com/user-attachments/assets/d1868d30-a7fa-4809-818e-0450e185cc80)
 ## Script version
 `Version ?.??`
 ## Shortened Script
